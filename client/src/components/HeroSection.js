@@ -15,10 +15,12 @@ const HeroSection = () => {
           </h4>
           <button className="button">Analyze</button>
         </div>
-        <img
-          src="https://img.freepik.com/free-photo/smart-agriculture-iot-with-hand-planting-tree-background_53876-124626.jpg?size=626&ext=jpg"
-          alt="farming"
-        />
+        <div className="rightImage">
+          <img
+            src="https://img.freepik.com/free-photo/smart-agriculture-iot-with-hand-planting-tree-background_53876-124626.jpg?size=626&ext=jpg"
+            alt="farming"
+          />
+        </div>
       </div>
     </div>
   );

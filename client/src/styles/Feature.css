@@ -1,0 +1,35 @@
+.FeatureContainer {
+  margin: 40px 0;
+}
+
+.FeatureContainer h1 {
+  text-align: center;
+  color: white;
+}
+
+.FeatureCard {
+  padding: 25px;
+  text-align: center;
+}
+
+.FeatureCard h2 {
+  text-align: center;
+  margin: 5px 0;
+  color: white;
+}
+
+.FeatureCardImage {
+  max-width: 300px;
+}
+
+.FeatureCardSection {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+  gap: 20px;
+}
+
+.FeatureCard h6 {
+  font-size: 20px;
+  text-align: justify;
+  font-weight: lighter;
+}

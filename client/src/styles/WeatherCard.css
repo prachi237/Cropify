@@ -40,8 +40,9 @@
   text-align: center;
 }
 
-.wrap h1 {
+.wrap h2 {
   margin: 20px 0;
+  color: white;
 }
 
 .search {
@@ -49,4 +50,9 @@
   gap: 20px;
   justify-content: center;
   margin-bottom: 20px;
+}
+
+.WeatherHeading {
+  color: white;
+  text-align: center;
 }

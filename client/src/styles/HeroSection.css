@@ -1,9 +1,13 @@
 .heroSection {
-  padding: 100px 25px;
+  padding: 0 25px;
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 40px;
   height: 60vh;
+}
+
+.left {
+  justify-content: center;
 }
 
 .left h4 {
@@ -11,7 +15,7 @@
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
-  line-height: 24px;
+  line-height: 32px;
   color: #ffffff;
 }
 
@@ -20,4 +24,15 @@
   border-radius: 20px;
   border: 2px solid white;
   margin: 50px 0;
+}
+
+.rightImage {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rightImage img {
+  height: 60%;
 }

@@ -47,8 +47,9 @@ const Search = () => {
 
   return (
     <>
+      <h1 className="WeatherHeading">Weather Details</h1>
       <div className="wrap">
-        <h1>Enter your place here</h1>
+        <h2>Enter your place here</h2>
         <div className="search">
           <input
             type="search"
