@@ -1,0 +1,27 @@
+.heroSection {
+  padding: 100px 25px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 40px;
+  height: 60vh;
+}
+
+.left h4 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.right {
+  background-image: url("https://img.freepik.com/free-photo/smart-agriculture-iot-with-hand-planting-tree-background_53876-124626.jpg?size=626&ext=jpg");
+}
+
+.button {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 2px solid white;
+  margin: 50px 0;
+}
