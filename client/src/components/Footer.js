@@ -7,7 +7,7 @@ const Footer = () => {
       <footer class="footer-distributed">
         <div class="footer-left">
           <h3>
-            Farm<span>ik</span>
+            Crop<span>ify</span>
           </h3>
 
           <p class="footer-links">
@@ -26,7 +26,7 @@ const Footer = () => {
             <a href="/s">Contact</a>
           </p>
 
-          <p class="footer-company-name">Farmik © 2022</p>
+          <p class="footer-company-name">Cropify © 2022</p>
         </div>
 
         <div class="footer-center">
