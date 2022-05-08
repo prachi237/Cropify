@@ -32,6 +32,11 @@ Hence our team came up with Project ** Cropify: Crop yield diagnostic tool !**
 
 <img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM%20(1).jpeg" width="300" height="500" >
 <img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM%20(2).jpeg" width="300" height="500" >
+<img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM.jpeg" width="300" height="500" >
+<img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.39%20PM%20(1).jpeg" width="300" height="500" >
+
+
+
 ## How we built it
 * Figma: After brainstorming many ideas, we moved on to wireframing in Figma, starting with lo-fidelity and working together to create clickable interactions on the high fidelity prototype.
 * Machine Learning: implemented Random Forest group Algorithm using python libraries: Pandas, Matplotlib, Numpy.
@@ -56,3 +61,4 @@ Hence our team came up with Project ** Cropify: Crop yield diagnostic tool !**
 ## What's next for Cropify
 * We want to build a mobile application since it is handier.
 * We wish to integrate language translation tools so that farmers can use out application without any linguistics barriers.
+
