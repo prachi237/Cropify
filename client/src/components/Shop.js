@@ -10,9 +10,6 @@ const Shop = () => {
         <ShopCard />
         <ShopCard />
         <ShopCard />
-        <ShopCard />
-        <ShopCard />
-        <ShopCard />
       </div>
     </div>
   );
