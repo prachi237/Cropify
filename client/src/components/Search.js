@@ -5,7 +5,6 @@ import "../styles/WeatherCard.css";
 const Search = () => {
   const [searchTerm, setSearchTerm] = useState("kolkata");
   const [tempInfo, setTempInfo] = useState({});
-  console.log(searchTerm);
 
   const getWeatherInfo = async () => {
     try {
@@ -13,7 +12,6 @@ const Search = () => {
 
       let res = await fetch(url);
       let data = await res.json();
-      console.log(data);
 
       const { temp, humidity, pressure } = data.main;
       const { main: weatherType } = data.weather[0];
@@ -34,8 +32,6 @@ const Search = () => {
       };
 
       setTempInfo(myNewWeatherInfo);
-
-      console.log(data);
     } catch (err) {
       console.log(err);
     }
