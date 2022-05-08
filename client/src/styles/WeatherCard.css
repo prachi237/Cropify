@@ -1,0 +1,58 @@
+.WeatherContainer {
+  margin: 25px;
+  padding: 40px 20px;
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  max-width: 720px;
+  margin: auto;
+  background: linear-gradient(
+    289.6deg,
+    rgba(255, 255, 255, 0.43) 0%,
+    rgba(255, 255, 255, 0.46) 101.2%
+  );
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.rightSection {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.rightSection img {
+  width: 300px;
+}
+
+.wrap {
+  width: 400px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.wrap h2 {
+  margin: 20px 0;
+  color: white;
+}
+
+.search {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.WeatherHeading {
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,38 @@
+.heroSection {
+  padding: 0 25px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 40px;
+  height: 60vh;
+}
+
+.left {
+  justify-content: center;
+}
+
+.left h4 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 32px;
+  color: #ffffff;
+}
+
+.button {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 2px solid white;
+  margin: 50px 0;
+}
+
+.rightImage {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rightImage img {
+  height: 60%;
+}

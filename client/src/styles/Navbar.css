@@ -1,0 +1,51 @@
+.nav {
+  display: grid;
+  grid-template-columns: 1fr 3fr 2fr;
+  background-color: #249921;
+  padding: 20px;
+  justify-content: center;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.logo h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.navItems {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.navItems h2 {
+  display: flex;
+  align-items: center;
+}
+
+.loginSection div {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+.Language {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 2px solid white;
+  margin: 0 20px;
+}
+
+.login {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 2px solid #4a3aff;
+  background-color: #4a3aff;
+  color: white;
+}
