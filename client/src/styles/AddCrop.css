@@ -1,0 +1,57 @@
+.AddCropSection {
+  max-width: 80%;
+  margin: auto;
+}
+
+.AddCropHeading {
+  color: white;
+  margin: 20px 0;
+}
+
+.AddCropButton {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 0px;
+  font-size: 70px;
+  margin: 20px 0;
+  cursor: pointer;
+}
+
+.AddCropText {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 62px;
+  text-align: justify;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+.AddCropOption {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 0px;
+  font-size: 70px;
+  margin: 20px 0;
+  cursor: pointer;
+}
+
+.AddCropOption img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.AddCropOptions {
+  display: flex;
+  gap: 40px;
+}
+
+.AddCropOptionContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
