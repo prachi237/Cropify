@@ -8,11 +8,8 @@ const HeroSection = () => {
       <div className="heroSection">
         <div className="left">
           <h4>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vero
-            perspiciatis, ad alias sunt excepturi nemo aliquid quibusdam maxime
-            incidunt vel voluptate illum quod corporis atque id. Quia magni
-            aliquam dolore incidunt qui nulla, perspiciatis ipsam voluptas!
-            Ipsam libero earum quae.
+            A crop yield diagnostic tools that take the help of machine learning
+            to predict the best possible crop yield
           </h4>
           <button className="button">
             <Link to="/analyze">Analyze</Link>
