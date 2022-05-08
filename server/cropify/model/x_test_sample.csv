@@ -1,0 +1,779 @@
+Field,Value
+Crop_Year,2003.0
+Area,1070.0
+District_Name_24 PARAGANAS NORTH,0.0
+District_Name_24 PARAGANAS SOUTH,0.0
+District_Name_ADILABAD,0.0
+District_Name_AGAR MALWA,0.0
+District_Name_AGRA,0.0
+District_Name_AHMADABAD,0.0
+District_Name_AHMEDNAGAR,0.0
+District_Name_AIZAWL,0.0
+District_Name_AJMER,0.0
+District_Name_AKOLA,0.0
+District_Name_ALAPPUZHA,0.0
+District_Name_ALIGARH,0.0
+District_Name_ALIRAJPUR,0.0
+District_Name_ALLAHABAD,0.0
+District_Name_ALMORA,0.0
+District_Name_ALWAR,0.0
+District_Name_AMBALA,0.0
+District_Name_AMBEDKAR NAGAR,0.0
+District_Name_AMETHI,0.0
+District_Name_AMRAVATI,0.0
+District_Name_AMRELI,0.0
+District_Name_AMRITSAR,0.0
+District_Name_AMROHA,0.0
+District_Name_ANAND,0.0
+District_Name_ANANTAPUR,0.0
+District_Name_ANANTNAG,0.0
+District_Name_ANJAW,0.0
+District_Name_ANUGUL,0.0
+District_Name_ANUPPUR,0.0
+District_Name_ARARIA,0.0
+District_Name_ARIYALUR,0.0
+District_Name_ARWAL,0.0
+District_Name_ASHOKNAGAR,0.0
+District_Name_AURAIYA,0.0
+District_Name_AURANGABAD,0.0
+District_Name_AZAMGARH,0.0
+District_Name_BADGAM,0.0
+District_Name_BAGALKOT,0.0
+District_Name_BAGESHWAR,0.0
+District_Name_BAGHPAT,0.0
+District_Name_BAHRAICH,0.0
+District_Name_BAKSA,0.0
+District_Name_BALAGHAT,0.0
+District_Name_BALANGIR,0.0
+District_Name_BALESHWAR,0.0
+District_Name_BALLIA,0.0
+District_Name_BALOD,0.0
+District_Name_BALODA BAZAR,0.0
+District_Name_BALRAMPUR,0.0
+District_Name_BANAS KANTHA,0.0
+District_Name_BANDA,0.0
+District_Name_BANDIPORA,0.0
+District_Name_BANGALORE RURAL,0.0
+District_Name_BANKA,0.0
+District_Name_BANKURA,0.0
+District_Name_BANSWARA,0.0
+District_Name_BARABANKI,0.0
+District_Name_BARAMULLA,0.0
+District_Name_BARAN,0.0
+District_Name_BARDHAMAN,0.0
+District_Name_BAREILLY,0.0
+District_Name_BARGARH,0.0
+District_Name_BARMER,0.0
+District_Name_BARNALA,0.0
+District_Name_BARPETA,0.0
+District_Name_BARWANI,0.0
+District_Name_BASTAR,0.0
+District_Name_BASTI,0.0
+District_Name_BATHINDA,0.0
+District_Name_BEED,0.0
+District_Name_BEGUSARAI,0.0
+District_Name_BELGAUM,0.0
+District_Name_BELLARY,0.0
+District_Name_BEMETARA,0.0
+District_Name_BENGALURU URBAN,0.0
+District_Name_BETUL,0.0
+District_Name_BHADRAK,0.0
+District_Name_BHAGALPUR,0.0
+District_Name_BHANDARA,0.0
+District_Name_BHARATPUR,0.0
+District_Name_BHARUCH,0.0
+District_Name_BHAVNAGAR,0.0
+District_Name_BHILWARA,0.0
+District_Name_BHIND,0.0
+District_Name_BHIWANI,0.0
+District_Name_BHOJPUR,0.0
+District_Name_BHOPAL,0.0
+District_Name_BIDAR,0.0
+District_Name_BIJAPUR,0.0
+District_Name_BIJNOR,0.0
+District_Name_BIKANER,0.0
+District_Name_BILASPUR,0.0
+District_Name_BIRBHUM,0.0
+District_Name_BISHNUPUR,0.0
+District_Name_BOKARO,0.0
+District_Name_BONGAIGAON,0.0
+District_Name_BOUDH,0.0
+District_Name_BUDAUN,0.0
+District_Name_BULANDSHAHR,0.0
+District_Name_BULDHANA,0.0
+District_Name_BUNDI,0.0
+District_Name_BURHANPUR,0.0
+District_Name_BUXAR,0.0
+District_Name_CACHAR,0.0
+District_Name_CHAMARAJANAGAR,0.0
+District_Name_CHAMBA,0.0
+District_Name_CHAMOLI,0.0
+District_Name_CHAMPAWAT,0.0
+District_Name_CHAMPHAI,0.0
+District_Name_CHANDAULI,0.0
+District_Name_CHANDEL,0.0
+District_Name_CHANDIGARH,0.0
+District_Name_CHANDRAPUR,0.0
+District_Name_CHANGLANG,0.0
+District_Name_CHATRA,0.0
+District_Name_CHHATARPUR,0.0
+District_Name_CHHINDWARA,0.0
+District_Name_CHIKBALLAPUR,0.0
+District_Name_CHIKMAGALUR,0.0
+District_Name_CHIRANG,0.0
+District_Name_CHITRADURGA,0.0
+District_Name_CHITRAKOOT,0.0
+District_Name_CHITTOOR,0.0
+District_Name_CHITTORGARH,0.0
+District_Name_CHURACHANDPUR,0.0
+District_Name_CHURU,0.0
+District_Name_COIMBATORE,0.0
+District_Name_COOCHBEHAR,0.0
+District_Name_CUDDALORE,0.0
+District_Name_CUTTACK,0.0
+District_Name_DADRA AND NAGAR HAVELI,0.0
+District_Name_DAKSHIN KANNAD,0.0
+District_Name_DAMOH,0.0
+District_Name_DANG,0.0
+District_Name_DANTEWADA,0.0
+District_Name_DARBHANGA,0.0
+District_Name_DARJEELING,0.0
+District_Name_DARRANG,0.0
+District_Name_DATIA,0.0
+District_Name_DAUSA,0.0
+District_Name_DAVANGERE,0.0
+District_Name_DEHRADUN,0.0
+District_Name_DEOGARH,0.0
+District_Name_DEOGHAR,0.0
+District_Name_DEORIA,0.0
+District_Name_DEWAS,0.0
+District_Name_DHALAI,0.0
+District_Name_DHAMTARI,0.0
+District_Name_DHANBAD,0.0
+District_Name_DHAR,0.0
+District_Name_DHARMAPURI,0.0
+District_Name_DHARWAD,0.0
+District_Name_DHEMAJI,0.0
+District_Name_DHENKANAL,0.0
+District_Name_DHOLPUR,0.0
+District_Name_DHUBRI,0.0
+District_Name_DHULE,0.0
+District_Name_DIBANG VALLEY,0.0
+District_Name_DIBRUGARH,0.0
+District_Name_DIMA HASAO,0.0
+District_Name_DIMAPUR,0.0
+District_Name_DINAJPUR DAKSHIN,0.0
+District_Name_DINAJPUR UTTAR,0.0
+District_Name_DINDIGUL,0.0
+District_Name_DINDORI,0.0
+District_Name_DODA,0.0
+District_Name_DOHAD,0.0
+District_Name_DUMKA,0.0
+District_Name_DUNGARPUR,0.0
+District_Name_DURG,0.0
+District_Name_EAST DISTRICT,0.0
+District_Name_EAST GARO HILLS,0.0
+District_Name_EAST GODAVARI,0.0
+District_Name_EAST JAINTIA HILLS,0.0
+District_Name_EAST KAMENG,0.0
+District_Name_EAST KHASI HILLS,0.0
+District_Name_EAST SIANG,0.0
+District_Name_EAST SINGHBUM,0.0
+District_Name_ERNAKULAM,0.0
+District_Name_ERODE,0.0
+District_Name_ETAH,0.0
+District_Name_ETAWAH,0.0
+District_Name_FAIZABAD,0.0
+District_Name_FARIDABAD,0.0
+District_Name_FARIDKOT,0.0
+District_Name_FARRUKHABAD,0.0
+District_Name_FATEHABAD,0.0
+District_Name_FATEHGARH SAHIB,0.0
+District_Name_FATEHPUR,0.0
+District_Name_FAZILKA,0.0
+District_Name_FIROZABAD,0.0
+District_Name_FIROZEPUR,0.0
+District_Name_GADAG,0.0
+District_Name_GADCHIROLI,0.0
+District_Name_GAJAPATI,0.0
+District_Name_GANDERBAL,0.0
+District_Name_GANDHINAGAR,0.0
+District_Name_GANGANAGAR,0.0
+District_Name_GANJAM,0.0
+District_Name_GARHWA,0.0
+District_Name_GARIYABAND,0.0
+District_Name_GAUTAM BUDDHA NAGAR,0.0
+District_Name_GAYA,0.0
+District_Name_GHAZIABAD,0.0
+District_Name_GHAZIPUR,0.0
+District_Name_GIRIDIH,0.0
+District_Name_GOALPARA,0.0
+District_Name_GODDA,0.0
+District_Name_GOLAGHAT,0.0
+District_Name_GOMATI,0.0
+District_Name_GONDA,0.0
+District_Name_GONDIA,0.0
+District_Name_GOPALGANJ,0.0
+District_Name_GORAKHPUR,0.0
+District_Name_GULBARGA,0.0
+District_Name_GUMLA,0.0
+District_Name_GUNA,0.0
+District_Name_GUNTUR,0.0
+District_Name_GURDASPUR,0.0
+District_Name_GURGAON,0.0
+District_Name_GWALIOR,0.0
+District_Name_HAILAKANDI,0.0
+District_Name_HAMIRPUR,0.0
+District_Name_HANUMANGARH,0.0
+District_Name_HAPUR,0.0
+District_Name_HARDA,0.0
+District_Name_HARDOI,0.0
+District_Name_HARIDWAR,0.0
+District_Name_HASSAN,0.0
+District_Name_HATHRAS,0.0
+District_Name_HAVERI,0.0
+District_Name_HAZARIBAGH,0.0
+District_Name_HINGOLI,0.0
+District_Name_HISAR,0.0
+District_Name_HOOGHLY,0.0
+District_Name_HOSHANGABAD,0.0
+District_Name_HOSHIARPUR,0.0
+District_Name_HOWRAH,0.0
+District_Name_HYDERABAD,0.0
+District_Name_IDUKKI,0.0
+District_Name_IMPHAL EAST,0.0
+District_Name_IMPHAL WEST,0.0
+District_Name_INDORE,0.0
+District_Name_JABALPUR,0.0
+District_Name_JAGATSINGHAPUR,0.0
+District_Name_JAIPUR,0.0
+District_Name_JAISALMER,0.0
+District_Name_JAJAPUR,0.0
+District_Name_JALANDHAR,0.0
+District_Name_JALAUN,0.0
+District_Name_JALGAON,0.0
+District_Name_JALNA,0.0
+District_Name_JALORE,0.0
+District_Name_JALPAIGURI,0.0
+District_Name_JAMMU,0.0
+District_Name_JAMNAGAR,0.0
+District_Name_JAMTARA,0.0
+District_Name_JAMUI,0.0
+District_Name_JANJGIR-CHAMPA,0.0
+District_Name_JASHPUR,0.0
+District_Name_JAUNPUR,0.0
+District_Name_JEHANABAD,0.0
+District_Name_JHABUA,0.0
+District_Name_JHAJJAR,0.0
+District_Name_JHALAWAR,0.0
+District_Name_JHANSI,0.0
+District_Name_JHARSUGUDA,0.0
+District_Name_JHUNJHUNU,0.0
+District_Name_JIND,0.0
+District_Name_JODHPUR,0.0
+District_Name_JORHAT,0.0
+District_Name_JUNAGADH,0.0
+District_Name_KABIRDHAM,0.0
+District_Name_KACHCHH,0.0
+District_Name_KADAPA,0.0
+District_Name_KAIMUR (BHABUA),0.0
+District_Name_KAITHAL,0.0
+District_Name_KALAHANDI,0.0
+District_Name_KAMRUP,0.0
+District_Name_KAMRUP METRO,0.0
+District_Name_KANCHIPURAM,0.0
+District_Name_KANDHAMAL,0.0
+District_Name_KANGRA,0.0
+District_Name_KANKER,0.0
+District_Name_KANNAUJ,0.0
+District_Name_KANNIYAKUMARI,0.0
+District_Name_KANNUR,0.0
+District_Name_KANPUR DEHAT,0.0
+District_Name_KANPUR NAGAR,0.0
+District_Name_KAPURTHALA,0.0
+District_Name_KARAIKAL,0.0
+District_Name_KARAULI,0.0
+District_Name_KARBI ANGLONG,0.0
+District_Name_KARGIL,0.0
+District_Name_KARIMGANJ,0.0
+District_Name_KARIMNAGAR,0.0
+District_Name_KARNAL,0.0
+District_Name_KARUR,0.0
+District_Name_KASARAGOD,0.0
+District_Name_KASGANJ,0.0
+District_Name_KATHUA,0.0
+District_Name_KATIHAR,0.0
+District_Name_KATNI,0.0
+District_Name_KAUSHAMBI,0.0
+District_Name_KENDRAPARA,0.0
+District_Name_KENDUJHAR,0.0
+District_Name_KHAGARIA,0.0
+District_Name_KHAMMAM,0.0
+District_Name_KHANDWA,0.0
+District_Name_KHARGONE,0.0
+District_Name_KHEDA,0.0
+District_Name_KHERI,0.0
+District_Name_KHORDHA,0.0
+District_Name_KHOWAI,0.0
+District_Name_KHUNTI,0.0
+District_Name_KINNAUR,0.0
+District_Name_KIPHIRE,0.0
+District_Name_KISHANGANJ,0.0
+District_Name_KISHTWAR,0.0
+District_Name_KODAGU,0.0
+District_Name_KODERMA,0.0
+District_Name_KOHIMA,0.0
+District_Name_KOKRAJHAR,0.0
+District_Name_KOLAR,0.0
+District_Name_KOLASIB,0.0
+District_Name_KOLHAPUR,0.0
+District_Name_KOLLAM,0.0
+District_Name_KONDAGAON,0.0
+District_Name_KOPPAL,0.0
+District_Name_KORAPUT,0.0
+District_Name_KORBA,0.0
+District_Name_KOREA,0.0
+District_Name_KOTA,0.0
+District_Name_KOTTAYAM,0.0
+District_Name_KOZHIKODE,0.0
+District_Name_KRISHNA,0.0
+District_Name_KRISHNAGIRI,0.0
+District_Name_KULGAM,0.0
+District_Name_KULLU,0.0
+District_Name_KUPWARA,0.0
+District_Name_KURNOOL,0.0
+District_Name_KURUKSHETRA,0.0
+District_Name_KURUNG KUMEY,0.0
+District_Name_KUSHI NAGAR,0.0
+District_Name_LAHUL AND SPITI,0.0
+District_Name_LAKHIMPUR,0.0
+District_Name_LAKHISARAI,0.0
+District_Name_LALITPUR,0.0
+District_Name_LATEHAR,0.0
+District_Name_LATUR,0.0
+District_Name_LAWNGTLAI,0.0
+District_Name_LEH LADAKH,0.0
+District_Name_LOHARDAGA,0.0
+District_Name_LOHIT,0.0
+District_Name_LONGDING,0.0
+District_Name_LONGLENG,0.0
+District_Name_LOWER DIBANG VALLEY,0.0
+District_Name_LOWER SUBANSIRI,0.0
+District_Name_LUCKNOW,0.0
+District_Name_LUDHIANA,0.0
+District_Name_LUNGLEI,0.0
+District_Name_MADHEPURA,0.0
+District_Name_MADHUBANI,0.0
+District_Name_MADURAI,0.0
+District_Name_MAHARAJGANJ,0.0
+District_Name_MAHASAMUND,0.0
+District_Name_MAHBUBNAGAR,0.0
+District_Name_MAHE,0.0
+District_Name_MAHENDRAGARH,0.0
+District_Name_MAHESANA,0.0
+District_Name_MAHOBA,0.0
+District_Name_MAINPURI,0.0
+District_Name_MALAPPURAM,0.0
+District_Name_MALDAH,0.0
+District_Name_MALKANGIRI,0.0
+District_Name_MAMIT,0.0
+District_Name_MANDI,0.0
+District_Name_MANDLA,0.0
+District_Name_MANDSAUR,0.0
+District_Name_MANDYA,0.0
+District_Name_MANSA,0.0
+District_Name_MARIGAON,0.0
+District_Name_MATHURA,0.0
+District_Name_MAU,0.0
+District_Name_MAYURBHANJ,0.0
+District_Name_MEDAK,0.0
+District_Name_MEDINIPUR EAST,0.0
+District_Name_MEDINIPUR WEST,0.0
+District_Name_MEERUT,0.0
+District_Name_MEWAT,0.0
+District_Name_MIRZAPUR,0.0
+District_Name_MOGA,0.0
+District_Name_MOKOKCHUNG,0.0
+District_Name_MON,0.0
+District_Name_MORADABAD,0.0
+District_Name_MORENA,0.0
+District_Name_MUKTSAR,0.0
+District_Name_MUMBAI,0.0
+District_Name_MUNGELI,0.0
+District_Name_MUNGER,0.0
+District_Name_MURSHIDABAD,0.0
+District_Name_MUZAFFARNAGAR,0.0
+District_Name_MUZAFFARPUR,0.0
+District_Name_MYSORE,0.0
+District_Name_NABARANGPUR,0.0
+District_Name_NADIA,0.0
+District_Name_NAGAON,0.0
+District_Name_NAGAPATTINAM,0.0
+District_Name_NAGAUR,0.0
+District_Name_NAGPUR,0.0
+District_Name_NAINITAL,0.0
+District_Name_NALANDA,0.0
+District_Name_NALBARI,0.0
+District_Name_NALGONDA,0.0
+District_Name_NAMAKKAL,0.0
+District_Name_NAMSAI,0.0
+District_Name_NANDED,0.0
+District_Name_NANDURBAR,0.0
+District_Name_NARAYANPUR,0.0
+District_Name_NARMADA,0.0
+District_Name_NARSINGHPUR,0.0
+District_Name_NASHIK,0.0
+District_Name_NAVSARI,0.0
+District_Name_NAWADA,0.0
+District_Name_NAWANSHAHR,0.0
+District_Name_NAYAGARH,0.0
+District_Name_NEEMUCH,0.0
+District_Name_NICOBARS,0.0
+District_Name_NIZAMABAD,0.0
+District_Name_NORTH AND MIDDLE ANDAMAN,0.0
+District_Name_NORTH DISTRICT,0.0
+District_Name_NORTH GARO HILLS,0.0
+District_Name_NORTH GOA,0.0
+District_Name_NORTH TRIPURA,0.0
+District_Name_NUAPADA,0.0
+District_Name_OSMANABAD,0.0
+District_Name_PAKUR,0.0
+District_Name_PALAKKAD,0.0
+District_Name_PALAMU,0.0
+District_Name_PALGHAR,0.0
+District_Name_PALI,0.0
+District_Name_PALWAL,0.0
+District_Name_PANCH MAHALS,0.0
+District_Name_PANCHKULA,0.0
+District_Name_PANIPAT,0.0
+District_Name_PANNA,0.0
+District_Name_PAPUM PARE,0.0
+District_Name_PARBHANI,0.0
+District_Name_PASHCHIM CHAMPARAN,0.0
+District_Name_PATAN,0.0
+District_Name_PATHANAMTHITTA,0.0
+District_Name_PATHANKOT,0.0
+District_Name_PATIALA,0.0
+District_Name_PATNA,0.0
+District_Name_PAURI GARHWAL,0.0
+District_Name_PERAMBALUR,0.0
+District_Name_PEREN,0.0
+District_Name_PHEK,0.0
+District_Name_PILIBHIT,0.0
+District_Name_PITHORAGARH,0.0
+District_Name_PONDICHERRY,0.0
+District_Name_POONCH,0.0
+District_Name_PORBANDAR,0.0
+District_Name_PRAKASAM,0.0
+District_Name_PRATAPGARH,0.0
+District_Name_PUDUKKOTTAI,0.0
+District_Name_PULWAMA,0.0
+District_Name_PUNE,0.0
+District_Name_PURBI CHAMPARAN,0.0
+District_Name_PURI,0.0
+District_Name_PURNIA,0.0
+District_Name_PURULIA,0.0
+District_Name_RAE BARELI,0.0
+District_Name_RAICHUR,0.0
+District_Name_RAIGAD,0.0
+District_Name_RAIGARH,0.0
+District_Name_RAIPUR,0.0
+District_Name_RAISEN,0.0
+District_Name_RAJAURI,0.0
+District_Name_RAJGARH,0.0
+District_Name_RAJKOT,0.0
+District_Name_RAJNANDGAON,0.0
+District_Name_RAJSAMAND,0.0
+District_Name_RAMANAGARA,0.0
+District_Name_RAMANATHAPURAM,0.0
+District_Name_RAMBAN,0.0
+District_Name_RAMGARH,0.0
+District_Name_RAMPUR,0.0
+District_Name_RANCHI,0.0
+District_Name_RANGAREDDI,0.0
+District_Name_RATLAM,0.0
+District_Name_RATNAGIRI,0.0
+District_Name_RAYAGADA,0.0
+District_Name_REASI,0.0
+District_Name_REWA,0.0
+District_Name_REWARI,0.0
+District_Name_RI BHOI,0.0
+District_Name_ROHTAK,0.0
+District_Name_ROHTAS,0.0
+District_Name_RUDRA PRAYAG,0.0
+District_Name_RUPNAGAR,0.0
+District_Name_S.A.S NAGAR,0.0
+District_Name_SABAR KANTHA,0.0
+District_Name_SAGAR,0.0
+District_Name_SAHARANPUR,0.0
+District_Name_SAHARSA,0.0
+District_Name_SAHEBGANJ,0.0
+District_Name_SAIHA,0.0
+District_Name_SALEM,0.0
+District_Name_SAMASTIPUR,0.0
+District_Name_SAMBA,0.0
+District_Name_SAMBALPUR,1.0
+District_Name_SAMBHAL,0.0
+District_Name_SANGLI,0.0
+District_Name_SANGRUR,0.0
+District_Name_SANT KABEER NAGAR,0.0
+District_Name_SANT RAVIDAS NAGAR,0.0
+District_Name_SARAIKELA KHARSAWAN,0.0
+District_Name_SARAN,0.0
+District_Name_SATARA,0.0
+District_Name_SATNA,0.0
+District_Name_SAWAI MADHOPUR,0.0
+District_Name_SEHORE,0.0
+District_Name_SENAPATI,0.0
+District_Name_SEONI,0.0
+District_Name_SEPAHIJALA,0.0
+District_Name_SERCHHIP,0.0
+District_Name_SHAHDOL,0.0
+District_Name_SHAHJAHANPUR,0.0
+District_Name_SHAJAPUR,0.0
+District_Name_SHAMLI,0.0
+District_Name_SHEIKHPURA,0.0
+District_Name_SHEOHAR,0.0
+District_Name_SHEOPUR,0.0
+District_Name_SHIMLA,0.0
+District_Name_SHIMOGA,0.0
+District_Name_SHIVPURI,0.0
+District_Name_SHOPIAN,0.0
+District_Name_SHRAVASTI,0.0
+District_Name_SIDDHARTH NAGAR,0.0
+District_Name_SIDHI,0.0
+District_Name_SIKAR,0.0
+District_Name_SIMDEGA,0.0
+District_Name_SINDHUDURG,0.0
+District_Name_SINGRAULI,0.0
+District_Name_SIRMAUR,0.0
+District_Name_SIROHI,0.0
+District_Name_SIRSA,0.0
+District_Name_SITAMARHI,0.0
+District_Name_SITAPUR,0.0
+District_Name_SIVAGANGA,0.0
+District_Name_SIVASAGAR,0.0
+District_Name_SIWAN,0.0
+District_Name_SOLAN,0.0
+District_Name_SOLAPUR,0.0
+District_Name_SONBHADRA,0.0
+District_Name_SONEPUR,0.0
+District_Name_SONIPAT,0.0
+District_Name_SONITPUR,0.0
+District_Name_SOUTH ANDAMANS,0.0
+District_Name_SOUTH DISTRICT,0.0
+District_Name_SOUTH GARO HILLS,0.0
+District_Name_SOUTH GOA,0.0
+District_Name_SOUTH TRIPURA,0.0
+District_Name_SOUTH WEST GARO HILLS,0.0
+District_Name_SOUTH WEST KHASI HILLS,0.0
+District_Name_SPSR NELLORE,0.0
+District_Name_SRIKAKULAM,0.0
+District_Name_SRINAGAR,0.0
+District_Name_SUKMA,0.0
+District_Name_SULTANPUR,0.0
+District_Name_SUNDARGARH,0.0
+District_Name_SUPAUL,0.0
+District_Name_SURAJPUR,0.0
+District_Name_SURAT,0.0
+District_Name_SURENDRANAGAR,0.0
+District_Name_SURGUJA,0.0
+District_Name_TAMENGLONG,0.0
+District_Name_TAPI,0.0
+District_Name_TARN TARAN,0.0
+District_Name_TAWANG,0.0
+District_Name_TEHRI GARHWAL,0.0
+District_Name_THANE,0.0
+District_Name_THANJAVUR,0.0
+District_Name_THE NILGIRIS,0.0
+District_Name_THENI,0.0
+District_Name_THIRUVALLUR,0.0
+District_Name_THIRUVANANTHAPURAM,0.0
+District_Name_THIRUVARUR,0.0
+District_Name_THOUBAL,0.0
+District_Name_THRISSUR,0.0
+District_Name_TIKAMGARH,0.0
+District_Name_TINSUKIA,0.0
+District_Name_TIRAP,0.0
+District_Name_TIRUCHIRAPPALLI,0.0
+District_Name_TIRUNELVELI,0.0
+District_Name_TIRUPPUR,0.0
+District_Name_TIRUVANNAMALAI,0.0
+District_Name_TONK,0.0
+District_Name_TUENSANG,0.0
+District_Name_TUMKUR,0.0
+District_Name_TUTICORIN,0.0
+District_Name_UDAIPUR,0.0
+District_Name_UDALGURI,0.0
+District_Name_UDAM SINGH NAGAR,0.0
+District_Name_UDHAMPUR,0.0
+District_Name_UDUPI,0.0
+District_Name_UJJAIN,0.0
+District_Name_UKHRUL,0.0
+District_Name_UMARIA,0.0
+District_Name_UNA,0.0
+District_Name_UNAKOTI,0.0
+District_Name_UNNAO,0.0
+District_Name_UPPER SIANG,0.0
+District_Name_UPPER SUBANSIRI,0.0
+District_Name_UTTAR KANNAD,0.0
+District_Name_UTTAR KASHI,0.0
+District_Name_VADODARA,0.0
+District_Name_VAISHALI,0.0
+District_Name_VALSAD,0.0
+District_Name_VARANASI,0.0
+District_Name_VELLORE,0.0
+District_Name_VIDISHA,0.0
+District_Name_VILLUPURAM,0.0
+District_Name_VIRUDHUNAGAR,0.0
+District_Name_VISAKHAPATANAM,0.0
+District_Name_VIZIANAGARAM,0.0
+District_Name_WARANGAL,0.0
+District_Name_WARDHA,0.0
+District_Name_WASHIM,0.0
+District_Name_WAYANAD,0.0
+District_Name_WEST DISTRICT,0.0
+District_Name_WEST GARO HILLS,0.0
+District_Name_WEST GODAVARI,0.0
+District_Name_WEST JAINTIA HILLS,0.0
+District_Name_WEST KAMENG,0.0
+District_Name_WEST KHASI HILLS,0.0
+District_Name_WEST SIANG,0.0
+District_Name_WEST SINGHBHUM,0.0
+District_Name_WEST TRIPURA,0.0
+District_Name_WOKHA,0.0
+District_Name_YADGIR,0.0
+District_Name_YAMUNANAGAR,0.0
+District_Name_YANAM,0.0
+District_Name_YAVATMAL,0.0
+District_Name_ZUNHEBOTO,0.0
+Season_Autumn     ,0.0
+Season_Kharif     ,1.0
+Season_Rabi       ,0.0
+Season_Summer     ,0.0
+Season_Whole Year ,0.0
+Season_Winter     ,0.0
+Crop_Apple,0.0
+Crop_Arcanut (Processed),0.0
+Crop_Arecanut,0.0
+Crop_Arhar/Tur,1.0
+Crop_Ash Gourd,0.0
+Crop_Atcanut (Raw),0.0
+Crop_Bajra,0.0
+Crop_Banana,0.0
+Crop_Barley,0.0
+Crop_Bean,0.0
+Crop_Beans & Mutter(Vegetable),0.0
+Crop_Beet Root,0.0
+Crop_Ber,0.0
+Crop_Bhindi,0.0
+Crop_Bitter Gourd,0.0
+Crop_Black pepper,0.0
+Crop_Blackgram,0.0
+Crop_Bottle Gourd,0.0
+Crop_Brinjal,0.0
+Crop_Cabbage,0.0
+Crop_Cardamom,0.0
+Crop_Carrot,0.0
+Crop_Cashewnut,0.0
+Crop_Cashewnut Processed,0.0
+Crop_Cashewnut Raw,0.0
+Crop_Castor seed,0.0
+Crop_Cauliflower,0.0
+Crop_Citrus Fruit,0.0
+Crop_Coconut ,0.0
+Crop_Coffee,0.0
+Crop_Colocosia,0.0
+Crop_Cond-spcs other,0.0
+Crop_Coriander,0.0
+Crop_Cotton(lint),0.0
+Crop_Cowpea(Lobia),0.0
+Crop_Cucumber,0.0
+Crop_Drum Stick,0.0
+Crop_Dry chillies,0.0
+Crop_Dry ginger,0.0
+Crop_Garlic,0.0
+Crop_Ginger,0.0
+Crop_Gram,0.0
+Crop_Grapes,0.0
+Crop_Groundnut,0.0
+Crop_Guar seed,0.0
+Crop_Horse-gram,0.0
+Crop_Jack Fruit,0.0
+Crop_Jobster,0.0
+Crop_Jowar,0.0
+Crop_Jute,0.0
+Crop_Jute & mesta,0.0
+Crop_Kapas,0.0
+Crop_Khesari,0.0
+Crop_Korra,0.0
+Crop_Lab-Lab,0.0
+Crop_Lemon,0.0
+Crop_Lentil,0.0
+Crop_Linseed,0.0
+Crop_Litchi,0.0
+Crop_Maize,0.0
+Crop_Mango,0.0
+Crop_Masoor,0.0
+Crop_Mesta,0.0
+Crop_Moong(Green Gram),0.0
+Crop_Moth,0.0
+Crop_Niger seed,0.0
+Crop_Oilseeds total,0.0
+Crop_Onion,0.0
+Crop_Orange,0.0
+Crop_Other  Rabi pulses,0.0
+Crop_Other Cereals & Millets,0.0
+Crop_Other Citrus Fruit,0.0
+Crop_Other Dry Fruit,0.0
+Crop_Other Fresh Fruits,0.0
+Crop_Other Kharif pulses,0.0
+Crop_Other Vegetables,0.0
+Crop_Paddy,0.0
+Crop_Papaya,0.0
+Crop_Peach,0.0
+Crop_Pear,0.0
+Crop_Peas  (vegetable),0.0
+Crop_Peas & beans (Pulses),0.0
+Crop_Perilla,0.0
+Crop_Pineapple,0.0
+Crop_Plums,0.0
+Crop_Pome Fruit,0.0
+Crop_Pome Granet,0.0
+Crop_Potato,0.0
+Crop_Pulses total,0.0
+Crop_Pump Kin,0.0
+Crop_Ragi,0.0
+Crop_Rajmash Kholar,0.0
+Crop_Rapeseed &Mustard,0.0
+Crop_Redish,0.0
+Crop_Ribed Guard,0.0
+Crop_Rice,0.0
+Crop_Ricebean (nagadal),0.0
+Crop_Rubber,0.0
+Crop_Safflower,0.0
+Crop_Samai,0.0
+Crop_Sannhamp,0.0
+Crop_Sapota,0.0
+Crop_Sesamum,0.0
+Crop_Small millets,0.0
+Crop_Snak Guard,0.0
+Crop_Soyabean,0.0
+Crop_Sugarcane,0.0
+Crop_Sunflower,0.0
+Crop_Sweet potato,0.0
+Crop_Tapioca,0.0
+Crop_Tea,0.0
+Crop_Tobacco,0.0
+Crop_Tomato,0.0
+Crop_Total foodgrain,0.0
+Crop_Turmeric,0.0
+Crop_Turnip,0.0
+Crop_Urad,0.0
+Crop_Varagu,0.0
+Crop_Water Melon,0.0
+Crop_Wheat,0.0
+Crop_Yam,0.0
+Crop_other fibres,0.0
+Crop_other misc. pulses,0.0
+Crop_other oilseeds,0.0
