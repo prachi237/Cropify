@@ -17,3 +17,27 @@ Hence our team came up with Project ** Cropify: Crop yield diagnostic tool !**
 * The ML model aims to help farmers to cultivate proper crops for better yield production. To precisely predict the crop yield it analyzes factors like district (assuming same weather and soil parameters in a particular district), state season, and crop type. It can be achieved using supervised and unsupervised learning algorithms. 
 * We used a random forest machine learning algorithm. The chosen dataset was loaded and 75% of the dataset was used to train the model and 25% to test the model. The model achieved an accuracy of 89%. 
 
+## How we built it
+* Figma: After brainstorming many ideas, we moved on to wireframing in Figma, starting with lo-fidelity and working together to create clickable interactions on the high fidelity prototype.
+* Machine Learning: implemented Random Forest group Algorithm using python libraries: Pandas, Matplotlib, Numpy.
+* Front-end development using React.js
+* Material-UI and CSS: we worked on the UI/UX, layout, CSS, and design.
+
+## Challenges we ran into
+* We faced difficulty in testing the data sets.
+* Debugging issues and dynamic routing in React.js.
+* Firebase authentication
+
+## Accomplishments that we're proud of
+ 
+✅We are proud that we were able to address such an important issue and find a practical and inclusive solution to it.
+✅Our teamwork and cooperative workflow helped us to build the project in its entirety.
+✅We are proud to have completed the whole UI design, develop and publish a fully functional website and developed an ML model.
+## What we learned
+* The very first thing we all learned was teamwork. We thought about the various problems around us and came up with a solution that we could build in the given time.
+* The second thing we could implement Machine Learning Algorithm to our project. 
+* We learned better tactics of collaboration and brainstorming. We also learned a lot of issues faced in agro-industry while researching, that we were unaware of.
+
+## What's next for Cropify
+* We want to build a mobile application since it is handier.
+* We wish to integrate language translation tools so that farmers can use out application without any linguistics barriers.
