@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "../styles/HeroSection.css";
 
 const HeroSection = () => {
@@ -13,7 +14,9 @@ const HeroSection = () => {
             aliquam dolore incidunt qui nulla, perspiciatis ipsam voluptas!
             Ipsam libero earum quae.
           </h4>
-          <button className="button">Analyze</button>
+          <button className="button">
+            <Link to="/analyze">Analyze</Link>
+          </button>
         </div>
         <div className="rightImage">
           <img

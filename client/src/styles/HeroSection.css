@@ -1,7 +1,9 @@
 .heroSection {
+  max-width: 80%;
+  margin: auto;
   padding: 0 25px;
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 1fr;
   gap: 40px;
   height: 60vh;
 }
@@ -35,4 +37,22 @@
 
 .rightImage img {
   height: 60%;
+}
+
+@media screen and (max-width: 1000px) {
+  .heroSection {
+    display: flex;
+    flex-direction: column-reverse;
+    height: auto;
+    padding: 100px 0;
+  }
+  .rightImage img {
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .rightImage img {
+    height: 150px;
+  }
 }
