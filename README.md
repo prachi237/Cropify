@@ -1,4 +1,17 @@
 # Cropify
+[fork]: ../../fork
+[pr]: ../../compare
+[contributing]: CONTRIBUTING.md
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+
+<!-- Banner goes here -->
+
+# Codhergram
+[VideoDemo](https://youtu.be/5n0jKr0DMJI)
+<br>
+Figma Link: [link](https://www.figma.com/proto/kOaqr8HMmjayHB02Ar9yEN/Cod(H)ergram?page-id=0%3A1&node-id=2%3A7&viewport=241%2C48%2C0.22&scaling=scale-down&starting-point-node-id=2%3A4)
+<!-- Details goes here -->
 
 ## Inspiration
 India is an agricultural country, though the agro-industry has a total of 12-13% of the GDP share. More than 60% of rural India depends on agricultural yield growth and allied agro-industry products. Crop yield prediction is an essential task for the decision-makers at national and regional levels for rapid decision-making. An accurate crop yield prediction model can help farmers to decide on what to grow and when to grow. It will act as a medium to provide the farmers with efficient information required to get high yields and thus maximize profits which in turn will reduce the suicide rates and lessen difficulties.
@@ -17,6 +30,8 @@ Hence our team came up with Project ** Cropify: Crop yield diagnostic tool !**
 * The ML model aims to help farmers to cultivate proper crops for better yield production. To precisely predict the crop yield it analyzes factors like district (assuming same weather and soil parameters in a particular district), state season, and crop type. It can be achieved using supervised and unsupervised learning algorithms. 
 * We used a random forest machine learning algorithm. The chosen dataset was loaded and 75% of the dataset was used to train the model and 25% to test the model. The model achieved an accuracy of 89%. 
 
+<img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM%20(1).jpeg" width="100" height="500" >
+<img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM%20(2).jpeg" width="100" height="500" >
 ## How we built it
 * Figma: After brainstorming many ideas, we moved on to wireframing in Figma, starting with lo-fidelity and working together to create clickable interactions on the high fidelity prototype.
 * Machine Learning: implemented Random Forest group Algorithm using python libraries: Pandas, Matplotlib, Numpy.
