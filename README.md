@@ -1,4 +1,4 @@
-# hackDefine
+# Cropify
 
 ## Inspiration
 India is an agricultural country, though the agro-industry has a total of 12-13% of the GDP share. More than 60% of rural India depends on agricultural yield growth and allied agro-industry products. Crop yield prediction is an essential task for the decision-makers at national and regional levels for rapid decision-making. An accurate crop yield prediction model can help farmers to decide on what to grow and when to grow. It will act as a medium to provide the farmers with efficient information required to get high yields and thus maximize profits which in turn will reduce the suicide rates and lessen difficulties.
