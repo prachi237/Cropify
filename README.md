@@ -30,7 +30,7 @@ Hence our team came up with Project ** Cropify: Crop yield diagnostic tool !**
 * The ML model aims to help farmers to cultivate proper crops for better yield production. To precisely predict the crop yield it analyzes factors like district (assuming same weather and soil parameters in a particular district), state season, and crop type. It can be achieved using supervised and unsupervised learning algorithms. 
 * We used a random forest machine learning algorithm. The chosen dataset was loaded and 75% of the dataset was used to train the model and 25% to test the model. The model achieved an accuracy of 89%. 
 
-<img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM%20(1).jpeg" width="300" height="500" >
+<br> <img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM%20(1).jpeg" width="300" height="500" >
 <img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM%20(2).jpeg" width="300" height="500" >
 <img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.38%20PM.jpeg" width="300" height="500" >
 <img src="https://github.com/prachi237/hackDefine/blob/master/client/WhatsApp%20Image%202022-05-08%20at%204.41.39%20PM%20(1).jpeg" width="300" height="500" >
